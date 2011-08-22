@@ -7,18 +7,17 @@ svorak layout is the placement of the ä and ö keys.
 
 Installation
 
-1. Download `SwedishDvorak.keylayout`.
-2. Move the file to `/Library/Keyboard Layouts`.
-3. Restart the computer.
-4. Open System Preferences,
-    go to Language & Text,
-    then Input Sources, and
-    tick Swedish Dvorak (svdvorak) in the list of input methods.
-5. Check "Show input menu in menu bar" to change keyboard layout
-    from the menu bar.
-6. To use the keyboard layout on the login screen,
-    open System Preferences, go to Accounts, then Login Options and
-    select "Show input menu in login window".
+* Copy SwedishDvorak.* to '/Library/Keyboard Layouts/'
+* Restart the computer.
+* Open System Preferences,
+   go to Language & Text,
+   then Input Sources, and
+   tick Swedish Dvorak (svdvorak) in the list of input methods.
+* Check "Show input menu in menu bar" to change keyboard layout
+   from the menu bar.
+* To use the keyboard layout on the login screen,
+   open System Preferences, go to Accounts, then Login Options and
+   select "Show input menu in login window".
 
 
 Credits
@@ -28,6 +27,6 @@ Vidar Bronken Gundersen - http://github.com/vibrog/no-dvorak-osx
 
 I created this layout by opening the NorwegianDvorak.keylayout
 file in Ukulele and switched places between the Swedish ö and ä
-and the Norwegian/Danish ø and æ. That should be pretty close to
+and the Norwegian/Danish ø and æ keys. That should be pretty close to
 the svdvorak variant in Xorg.
 

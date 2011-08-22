@@ -6,7 +6,7 @@
   by Vidar Bronken Gundersen.
   Modified to Swedish layout by Albert Veli.
 -->
-<!--Last edited by Ukelele version 2.1.7 on 2011-08-22 at 19:07 (GMT+02:00)-->
+<!--Last edited by Ukelele version 2.1.7 on 2011-08-22 at 20:48 (GMT+02:00)-->
 <keyboard group="0" id="6952" name="Swedish Dvorak (svdvorak)" maxout="3">
     <layouts>
         <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -53,7 +53,7 @@
             <key code="7" action="q"/>
             <key code="8" action="j"/>
             <key code="9" action="k"/>
-            <key code="10" output="&#x0027;"/>
+            <key code="10" output="§"/>
             <!-- apostrophe -->
             <key code="11" action="x"/>
             <key code="12" action="å"/>
@@ -88,7 +88,7 @@
             <key code="39" output="-"/>
             <key code="40" action="t"/>
             <key code="41" action="s"/>
-            <key code="42" output="@"/>
+            <key code="42" output="&#x0027;"/>
             <key code="43" action="w"/>
             <key code="44" action="z"/>
             <key code="45" action="b"/>
@@ -182,7 +182,7 @@
             <key code="7" action="Q"/>
             <key code="8" action="J"/>
             <key code="9" action="K"/>
-            <key code="10" output="§"/>
+            <key code="10" output="½"/>
             <!-- section sign -->
             <key code="11" action="X"/>
             <key code="12" action="Å"/>
@@ -196,7 +196,7 @@
             <!-- quotation mark -->
             <key code="20" output="#"/>
             <!-- number sign -->
-            <key code="21" output="$"/>
+            <key code="21" output="€"/>
             <key code="22" output="&#x0026;"/>
             <!-- ampersand -->
             <key code="23" output="%"/>
@@ -436,7 +436,7 @@
             <!-- bullet -->
             <key code="8" output="√"/>
             <key code="9" output="ª"/>
-            <key code="10" output="&#x0027;"/>
+            <key code="10" output="½"/>
             <!-- apostrophe -->
             <key code="11" output="‹"/>
             <key code="12" action="ringabove"/>
@@ -449,13 +449,13 @@
             <key code="17" output="µ"/>
             <key code="18" output="©"/>
             <!-- copyright sign -->
-            <key code="19" output="™"/>
+            <key code="19" output="@"/>
             <!-- trademark sign -->
             <key code="20" output="£"/>
             <!-- pound sign -->
-            <key code="21" output="€"/>
+            <key code="21" output="$"/>
             <!-- euro sign -->
-            <key code="22" output="§"/>
+            <key code="22" output="™"/>
             <!-- section sign -->
             <key code="23" output="∞"/>
             <key code="24" output="́"/>
