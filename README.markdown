@@ -11,8 +11,8 @@ svorak layout is the placement of the ä and ö keys.
 Installation
 ------------
 
-* Copy SwedishDvorak.* to '/Library/Keyboard Layouts/'
-  cp SwedishDvorak.* '/Library/Keyboard Layouts/'
+* Copy SwedishDvorak.* to '/Library/Keyboard Layouts/':
+  `cp SwedishDvorak.* '/Library/Keyboard Layouts/'`
 * Restart the computer.
 * Open System Preferences,
    go to Language & Text,
