@@ -1,6 +1,7 @@
 SwedishDvorak.keylayout for Mac OS X
+====================================
 
-![](https://github.com/AlbertVeli/Swedish-Dvorak--svdvorak--for-OSX/raw/master/svdvorak-osx.png)
+![layout](https://github.com/AlbertVeli/Swedish-Dvorak--svdvorak--for-OSX/raw/master/svdvorak-osx.png "svdvorak OSX Layout")
 
 This keyboard layout provides a Swedish Dvorak (svdvorak)
 keyboard layout. The major difference between this and the
@@ -8,8 +9,10 @@ svorak layout is the placement of the ä and ö keys.
 
 
 Installation
+------------
 
 * Copy SwedishDvorak.* to '/Library/Keyboard Layouts/'
+  cp SwedishDvorak.* '/Library/Keyboard Layouts/'
 * Restart the computer.
 * Open System Preferences,
    go to Language & Text,
@@ -23,6 +26,7 @@ Installation
 
 
 Credits
+-------
 
 The original NorwegianDvorak.keylayout was created by
 Vidar Bronken Gundersen - http://github.com/vibrog/no-dvorak-osx
