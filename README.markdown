@@ -26,6 +26,7 @@ Installation
   `cp SwedishDvorak.* '/Library/Keyboard Layouts/'`
 
 * Restart the computer.
+  (github user dLuna reports that it is not necessary to restart the computer on Mac OS X 10.6.8, probably other versions too)
 
 * Open System Preferences,
    go to Language & Text,
