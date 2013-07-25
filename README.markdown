@@ -41,6 +41,16 @@ Installation
    select "Show input menu in login window".
 
 
+Windows
+-------
+
+I started Windows today and noticed there was no svdvorak layout
+available, so I created a new one using the free (as in gratis, not in
+freedom) [MS Keyboard Layout Creator](http://msdn.microsoft.com/sv-se/goglobal/bb964665) (v1.4).
+You can open svdvorak.klc in MKLC (and modify it if you want) to build
+a svdvorak layout for Windows.
+
+
 Credits
 -------
 
